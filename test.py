@@ -6,6 +6,7 @@ class TestDemo:
         assert 1 == 1
 
     def test_2(self):
+        print(1)
         assert 1 == 21
 
 
